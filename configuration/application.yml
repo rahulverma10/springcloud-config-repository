@@ -1,0 +1,5 @@
+eureka:
+  client:
+    registry-fetch-interval-second: 5
+    service-url:
+      defaultZone: http://localhost:7070/eureka/
